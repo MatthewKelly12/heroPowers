@@ -1,0 +1,17 @@
+.enabled {
+    font-size: 2em;
+}
+
+.mindReading {
+    border: 1px solid blue;
+    font-size: 2em;
+}
+
+.xray {
+    background-color: green;
+}
+
+.powerDisabled {
+    font-size: 1em;
+}
+
